@@ -1,7 +1,6 @@
 # Bennett Schiff
 
-I build data products end to end: ingestion, storage, modeling, the UI on top,
-and the scheduled jobs and alerts that keep them running when I'm not looking.
+Experienced, results-driven Partnerships Manager with a proven track record of developing synergistic vendor relationships, cultivating event sponsorships and experiences, and driving effective co-branded marketing campaigns. Experienced in partnering with both internal and external vendor executive leadership to drive strategic alignment, optimize operational efficiency, and deliver measurable business outcomes. Power user of AI to improve productivity, solve business problems, and build personal passion projects.
 
 🌐 [bennettschiff.com](https://bennettschiff.com)
 
